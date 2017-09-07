@@ -8,6 +8,10 @@
 # Example code in package build process
 *-Ex.R
 
+# Example code in package build process
+build_cipriu_infrastructure.R
+
+
 # Output files from R CMD build
 /*.tar.gz
 
